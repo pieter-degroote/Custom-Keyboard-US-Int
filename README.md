@@ -1,1 +1,2 @@
-# Custom_Keyboard_US_Int
+# Custom-Keyboard-US-Int
+Custom Keyboard - United States (International)
