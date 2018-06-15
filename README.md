@@ -1,2 +1,1 @@
-# Custom-Keyboard-US-Int
-Custom Keyboard - United States (International)
+# Custom Keyboard - United States (International) with AltGr dead keys
