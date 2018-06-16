@@ -17,7 +17,7 @@ The tilde (`~`) is put under `AltGr + ~` (dead key).
 The circumflex accent (`^`) is put under `AltGr + 6` (dead key).
 
 
-Enhancements - French words :
+Enhancements - Letters used in French words :
 
 `AltGr + X` : `à`
 
