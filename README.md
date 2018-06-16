@@ -4,7 +4,7 @@ Custom Keyboard Layout for Windows - United States (International) with dead key
 
 Modifications :
 
-The signs `£` and `¤` (under `AltGr + 4` and `AltGr + Shift + 4`) have switched places.
+The signs `£` (pound) and `¤` (currency) (under `AltGr + 4` and `AltGr + Shift + 4`) have switched places.
 
 The acute accent (`´`) is put under `AltGr + '` (dead key).
 
@@ -15,6 +15,8 @@ The grave accent (`` ` ``) is put under ``AltGr + ` `` (dead key).
 The tilde (`~`) is put under `AltGr + ~` (dead key).
 
 The circumflex accent (`^`) is put under `AltGr + 6` (dead key).
+
+The sign `¼` has moved to `AltGr + Shift + 6` (from `AltGr + 6`).
 
 
 Enhancements - Letters used in French words :
