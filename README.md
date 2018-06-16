@@ -20,11 +20,15 @@ The circumflex accent (`^`) is put under `AltGr + 6` (dead key).
 Enhancements - French words :
 
 `AltGr + X` : `à`
+
 `AltGr + V` : `è`
+
 `AltGr + J` : `ù`
+
 `AltGr + .` : `œ`
 
 Enhancements - Letters with diaeresis :
 
 `AltGr + F` : `ë`
+
 `AltGr + K` : `ï`
