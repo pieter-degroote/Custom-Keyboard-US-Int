@@ -1,7 +1,7 @@
 # Keyboard Layout - US (International) with dead keys under AltGr only (OBSOLETE)
 ## Please Note :
 
-My project is already surpassed by the EurKEY project by Steffen Brüntjen (which adds many more possibilities to the AltGr combinations on a US QWERTY keyboard).
+My project is already surpassed by the EurKEY project by Steffen Brüntjen (which adds many more possibilities to the AltGr combinations on a US QWERTY keyboard layout).
 
 **Please visit** : https://eurkey.steffen.bruentjen.eu/
 
