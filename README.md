@@ -1,4 +1,15 @@
-# Keyboard Layout - US (International) with dead keys under AltGr only
+# Keyboard Layout - US (International) with dead keys under AltGr only (OBSOLETE)
+## Please Note :
+
+My project is already surpassed by the EurKEY project by Steffen Brüntjen (which adds many more possibilities to the AltGr combinations on a US QWERTY keyboard).
+
+**Please visit** : https://eurkey.steffen.bruentjen.eu/
+
+**Download** : https://eurkey.steffen.bruentjen.eu/download.html
+
+
+## About this project (obsolete) :
+
 Custom Keyboard Layout for Windows - United States (International) with dead keys under AltGr only, plus some small modifications and enhancements under AltGr combinations
 
 
