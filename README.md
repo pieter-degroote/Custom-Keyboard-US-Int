@@ -1,11 +1,9 @@
 # Keyboard Layout - US (International) with dead keys under AltGr only (OBSOLETE)
-## Please Note :
+## Latest releases can be found in the 'UltimateKEYS' project :  https://github.com/pieter-degroote/UltimateKEYS
 
-My project is already surpassed by the EurKEY project by Steffen Brüntjen (which adds many more possibilities to the AltGr combinations on a US QWERTY keyboard layout).
 
-**Please visit** : https://eurkey.steffen.bruentjen.eu/
 
-**Download** : https://eurkey.steffen.bruentjen.eu/download.html
+**EurKEY website** : https://eurkey.steffen.bruentjen.eu/
 
 
 ## About this project (obsolete) :
