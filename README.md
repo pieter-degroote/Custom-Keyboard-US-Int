@@ -1,4 +1,4 @@
-# Keyboard Layout - US (International) with dead keys under AltGr only (OBSOLETE)
+# Keyboard Layout - US (International) with dead keys on AltGr only (OBSOLETE)
 
 ## Latest releases can be found in the 'UltimateKEYS' project :  https://github.com/pieter-degroote/UltimateKEYS
 
@@ -7,12 +7,12 @@
 
 ## About this project (obsolete) :
 
-Custom Keyboard Layout for Windows - United States (International) with dead keys under AltGr only, plus some small modifications and enhancements under AltGr combinations
+Custom Keyboard Layout for Windows - United States (International) with dead keys on AltGr only, plus some small modifications and enhancements under AltGr combinations
 
 
 Modifications :
 
-The signs `£` (pound) and `¤` (currency) (under `AltGr + 4` and `AltGr + Shift + 4`) have switched places.
+The signs `£` (pound) and `¤` (currency) (on `AltGr + 4` and `AltGr + Shift + 4`) have switched places.
 
 The acute accent (`´`) is put under `AltGr + '` (dead key).
 
