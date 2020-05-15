@@ -1,9 +1,8 @@
 # Keyboard Layout - US (International) with dead keys under AltGr only (OBSOLETE)
+
 ## Latest releases can be found in the 'UltimateKEYS' project :  https://github.com/pieter-degroote/UltimateKEYS
 
-
-
-**EurKEY website** : https://eurkey.steffen.bruentjen.eu/
+## Testing repository :  https://github.com/pieter-degroote/UltimateKEYS-testing
 
 
 ## About this project (obsolete) :
