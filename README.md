@@ -1,11 +1,13 @@
-# Keyboard Layout - US (International) with dead keys on AltGr only (OBSOLETE)
+# Keyboard Layout - US (International) with AltGr dead keys
+
+Custom Keyboard Layout for Windows - United States (International) with dead keys on AltGr only, plus some small modifications and enhancements on AltGr combinations **(OBSOLETE)**
 
 ## Latest releases can be found in the 'UltimateKEYS' project :  https://github.com/pieter-degroote/UltimateKEYS
 
 ## Testing repository :  https://github.com/pieter-degroote/UltimateKEYS-testing
 
 
-## About this project (obsolete) :
+### About this project (obsolete) :
 
 Custom Keyboard Layout for Windows - United States (International) with dead keys on AltGr only, plus some small modifications and enhancements under AltGr combinations
 
